@@ -1,0 +1,4 @@
+AcademicSearchComplete.test_proxy_ldap
+AcademicSearchComplete.test_proxy_shibboleth
+AcademicSearchComplete.test_wayf
+AcademicSearchComplete.test_wayfless

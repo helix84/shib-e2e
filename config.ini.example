@@ -1,0 +1,13 @@
+[USER]
+name = username
+password = ***
+
+[PROXY]
+proxy_url = https://ezproxy.example.com/login?url=
+
+[VPN]
+isEnabled = False
+
+[NOTIFICATION]
+isEnabled = True
+email = notifications-receiver@example.com

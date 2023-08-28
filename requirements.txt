@@ -1,0 +1,10 @@
+pytest~=7.0.1
+playwright~=1.17.2
+xdist=2.5.0
+metadata=2.0.1
+base-url=1.4.2
+allure-pytest=2.9.45
+forked=1.4.0
+requests~=2.26.0
+yagmail~=0.15.277
+flaky~=3.7.0
